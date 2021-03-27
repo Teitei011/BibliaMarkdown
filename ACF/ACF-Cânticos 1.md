@@ -1,0 +1,35 @@
+## ACF-Cânticos 1.md
+### v1
+ cântico dos cânticos, que é de Salomão.
+### v2
+ Beije-me ele com os beijos da sua boca; porque melhor é o teu amor do que o vinho.
+### v3
+ Suave é o aroma dos teus ungüentos; como o ungüento derramado é o teu nome; por isso as virgens te amam.
+### v4
+ Leva-me tu; correremos após ti. O rei me introduziu nas suas câmaras; em ti nos regozijaremos e nos alegraremos; do teu amor nos lembraremos, mais do que do vinho; os retos te amam.
+### v5
+ Eu sou morena, porém formosa, ó filhas de Jerusalém, como as tendas de Quedar, como as cortinas de Salomão.
+### v6
+ Não olheis para o eu ser morena, porque o sol resplandeceu sobre mim; os filhos de minha mãe indignaram-se contra mim, puseram-me por guarda das vinhas; a minha vinha, porém, não guardei.
+### v7
+ Dize-me, ó tu, a quem ama a minha alma: Onde apascentas o teu rebanho, onde o fazes descansar ao meio-dia; pois por que razão seria eu como a que anda errante junto aos rebanhos de teus companheiros?
+### v8
+ Se tu não o sabes, ó mais formosa entre as mulheres, sai-te pelas pisadas do rebanho, e apascenta as tuas cabras junto às moradas dos pastores.
+### v9
+ Às éguas dos carros de Faraó te comparo, ó meu amor.
+### v10
+ Formosas são as tuas faces entre os teus enfeites, o teu pescoço com os colares.
+### v11
+ Enfeites de ouro te faremos, com incrustações de prata.
+### v12
+ Enquanto o rei está assentado à sua mesa, o meu nardo exala o seu perfume.
+### v13
+ O meu amado é para mim como um ramalhete de mirra, posto entre os meus seios.
+### v14
+ Como um ramalhete de hena nas vinhas de En-Gedi, é para mim o meu amado.
+### v15
+ Eis que és formosa, ó meu amor, eis que és formosa; os teus olhos são como os das pombas.
+### v16
+ Eis que és formoso, ó amado meu, e também amável; o nosso leito é verde.
+### v17
+ As traves da nossa casa são de cedro, as nossas varandas de cipreste.
