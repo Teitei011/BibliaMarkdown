@@ -5,8 +5,7 @@ VERSION = "ACF"
 def write2File(versicules, nomeDoArquivo):
     f = open(nomeDoArquivo, "w")
 
-    nome = nomeDoArquivo.split("/")
-    f.write("## " +  str(nome[-1]) + '\n')
+    f.write("## " +  str(nomeDoArquivo) + '\n')
 
     i = 1
     for versicule in versicules:
